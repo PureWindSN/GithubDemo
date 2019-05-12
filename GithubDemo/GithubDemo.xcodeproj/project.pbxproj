@@ -13,6 +13,7 @@
 		A266C4F8228819B40029CC87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A266C4F7228819B40029CC87 /* Assets.xcassets */; };
 		A266C4FB228819B40029CC87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A266C4F9228819B40029CC87 /* LaunchScreen.storyboard */; };
 		A266C4FE228819B40029CC87 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C4FD228819B40029CC87 /* main.m */; };
+		A266C50622881B3B0029CC87 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C50522881B3B0029CC87 /* Cat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		A266C4FA228819B40029CC87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A266C4FC228819B40029CC87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A266C4FD228819B40029CC87 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A266C50422881B3B0029CC87 /* Cat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
+		A266C50522881B3B0029CC87 /* Cat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				A266C4F9228819B40029CC87 /* LaunchScreen.storyboard */,
 				A266C4FC228819B40029CC87 /* Info.plist */,
 				A266C4FD228819B40029CC87 /* main.m */,
+				A266C50422881B3B0029CC87 /* Cat.h */,
+				A266C50522881B3B0029CC87 /* Cat.m */,
 			);
 			path = GithubDemo;
 			sourceTree = "<group>";
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A266C50622881B3B0029CC87 /* Cat.m in Sources */,
 				A266C4F3228819B20029CC87 /* ViewController.m in Sources */,
 				A266C4FE228819B40029CC87 /* main.m in Sources */,
 				A266C4F0228819B20029CC87 /* AppDelegate.m in Sources */,
