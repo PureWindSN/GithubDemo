@@ -15,6 +15,7 @@
 		A266C4FE228819B40029CC87 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C4FD228819B40029CC87 /* main.m */; };
 		A266C50622881B3B0029CC87 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C50522881B3B0029CC87 /* Cat.m */; };
 		A266C532228842330029CC87 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C531228842330029CC87 /* Person.m */; };
+		A266C535228842E80029CC87 /* Animal.m in Sources */ = {isa = PBXBuildFile; fileRef = A266C534228842E80029CC87 /* Animal.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		A266C50522881B3B0029CC87 /* Cat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
 		A266C530228842330029CC87 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		A266C531228842330029CC87 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		A266C533228842E80029CC87 /* Animal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Animal.h; sourceTree = "<group>"; };
+		A266C534228842E80029CC87 /* Animal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Animal.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				A266C531228842330029CC87 /* Person.m */,
 				A266C50422881B3B0029CC87 /* Cat.h */,
 				A266C50522881B3B0029CC87 /* Cat.m */,
+				A266C533228842E80029CC87 /* Animal.h */,
+				A266C534228842E80029CC87 /* Animal.m */,
 			);
 			path = GithubDemo;
 			sourceTree = "<group>";
@@ -154,6 +159,7 @@
 				A266C50622881B3B0029CC87 /* Cat.m in Sources */,
 				A266C4F3228819B20029CC87 /* ViewController.m in Sources */,
 				A266C532228842330029CC87 /* Person.m in Sources */,
+				A266C535228842E80029CC87 /* Animal.m in Sources */,
 				A266C4FE228819B40029CC87 /* main.m in Sources */,
 				A266C4F0228819B20029CC87 /* AppDelegate.m in Sources */,
 			);
