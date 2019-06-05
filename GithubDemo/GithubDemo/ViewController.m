@@ -28,8 +28,10 @@
     //测试单一terminal方式提交至github 4.0
     
     
-    //测试单一terminal方式提交至github & commit message换行 5.0
+    //测试单一terminal方式提交至github & commit message换行(换行符号'\n'方式) 5.0
     
+    
+    //net introducing method(commit message换行) 6.0
 }
 
 
