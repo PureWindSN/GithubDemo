@@ -36,6 +36,10 @@
     //net introducing method(commit message换行) 7.0
     
     //net introducing method(commit message换行) 8.0
+    
+    //test 'git pull' 是否引起冲突问题(当项目文件目录变更时)            9.0
+    
+    
 }
 
 

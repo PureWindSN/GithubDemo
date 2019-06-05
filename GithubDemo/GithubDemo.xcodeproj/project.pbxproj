@@ -79,16 +79,24 @@
 				A266C4F9228819B40029CC87 /* LaunchScreen.storyboard */,
 				A266C4FC228819B40029CC87 /* Info.plist */,
 				A266C4FD228819B40029CC87 /* main.m */,
-				A266C530228842330029CC87 /* Person.h */,
-				A266C531228842330029CC87 /* Person.m */,
-				A266C50422881B3B0029CC87 /* Cat.h */,
-				A266C50522881B3B0029CC87 /* Cat.m */,
-				A2AB9848228C5BCA00555F3D /* Test.h */,
-				A2AB9849228C5BCA00555F3D /* Test.m */,
+				A2D5238322A7B52F00F127D4 /* Tools */,
 				A266C533228842E80029CC87 /* Animal.h */,
 				A266C534228842E80029CC87 /* Animal.m */,
 			);
 			path = GithubDemo;
+			sourceTree = "<group>";
+		};
+		A2D5238322A7B52F00F127D4 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				A266C50422881B3B0029CC87 /* Cat.h */,
+				A266C50522881B3B0029CC87 /* Cat.m */,
+				A266C530228842330029CC87 /* Person.h */,
+				A266C531228842330029CC87 /* Person.m */,
+				A2AB9848228C5BCA00555F3D /* Test.h */,
+				A2AB9849228C5BCA00555F3D /* Test.m */,
+			);
+			path = "\U0010Tools";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
