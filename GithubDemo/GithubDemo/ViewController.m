@@ -34,6 +34,8 @@
     //net introducing method(commit message换行) 6.0
     
     //net introducing method(commit message换行) 7.0
+    
+    //net introducing method(commit message换行) 8.0
 }
 
 
